@@ -1,0 +1,12 @@
+{
+	"underf" : true,
+	"unsued" : true,
+	"latedef" : true,
+	"curly" : true,
+	"noempty" : true,
+	"funcscope" : true,
+	"shadow" : "inner",
+	"supernew" : false,
+	"eqnull" : true,
+	"nonew" : true
+}
